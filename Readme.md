@@ -123,4 +123,3 @@ for example a log severity enum is an especially good use-case as most logs are 
 
 
 
-
