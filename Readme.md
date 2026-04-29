@@ -2,4 +2,3 @@
 
 Go Run-length encoding (currently just ints). RLE is great for data with low cardinality,
 for example a log severity enum is an especially good use-case as most logs are INFO, many millions of points can be compressed to a few bytes.
-
